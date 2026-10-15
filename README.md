@@ -27,6 +27,22 @@ HROne tracks daily employee attendance through **punch-in / punch-out** events. 
 
 ---
 
+## Screenshots
+
+### 🎛️ Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 👥 Employee Directory
+![Employees](screenshots/employees.png)
+
+### 🕐 Attendance — Punch In / Out
+![Attendance](screenshots/attendance.png)
+
+### 📊 Analytics
+![Analytics](screenshots/analytics.png)
+
+---
+
 ## Features
 
 - **Punch-in / Punch-out** — one open record per employee per day; duplicate attempts return `409`
